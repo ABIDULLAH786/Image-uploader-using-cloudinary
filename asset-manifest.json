@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Image-uploader-using-cloudinary/static/css/main.9c335f0c.css",
+    "main.js": "/Image-uploader-using-cloudinary/static/js/main.45539935.js",
+    "index.html": "/Image-uploader-using-cloudinary/index.html",
+    "main.9c335f0c.css.map": "/Image-uploader-using-cloudinary/static/css/main.9c335f0c.css.map",
+    "main.45539935.js.map": "/Image-uploader-using-cloudinary/static/js/main.45539935.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c335f0c.css",
+    "static/js/main.45539935.js"
+  ]
+}
